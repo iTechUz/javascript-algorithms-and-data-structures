@@ -22,7 +22,7 @@ Look at the `ourName` example above if you get stuck.
 
 
 ```js 
-Tarjima
+**Tarjima**
 ```
 ## javascripda o'zgaruvchilarni elon qilish
 
@@ -30,4 +30,26 @@ kompyuter fanida,ma'lumotlar kompyuter uchun mazmunli bo'lgan har qanday narsadi
 javascript 8 xil  malumot turini beradi. bulalar qaysilar `undefined`, `null`, `boolean`,`string`, `symbol`, `bigint`, `number`, and `object`
 
 
-Misol uchun, kompyuterlar raqqmlarni  farqlaydi, shuningdek 12 raqami kabi, va `strings`, shu kabi `"12"`, `"dog"`, yoki `"123 cats"`,
+Misol uchun, kompyuterlar raqqmlarni  farqlaydi, shuningdek 12 raqami kabi, va `strings`, shu kabi `"12"`, `"dog"`, yoki `"123 cats"`, belgilar to'plamidir,  komoyuterda raqamlar bilan matematik amalarni bajarish 
+lekin u "string "belgisida bolmaydi
+
+O'zgaruvchilar kompyuterlarga ma'lumotlarni dinamik tarzda boshqarishga imkon beradi.Ular buni ma'lumotlarning o'zidan emas, balki ma'lumotlarga ishora qilish uchun "yorliq" yordamida amalga oshiradilar. Sakkiz turdagi ma'lumotlarning har qanday turi o'zgaruvchida saqlanishi mumkin.
+
+
+O'zgaruvchilar matematikada foydalanadigan x va y o'zgaruvchilarga o'xshaydi, ya'ni ular biz murojaat qilmoqchi bo'lgan ma'lumotlarni ifodalash uchun oddiy nomdir. Kompyuter o'zgaruvchilari matematik o'zgaruvchilardan farq qiladi, chunki ular turli vaqtlarda turli qiymatlarni saqlashi mumkin
+
+
+Biz JavaScript-ga oʻzgaruvchini yaratish yoki eʼlon qilish uchun uning oldiga “var” kalit soʻzini qoʻyishni aytamiz, masalan:
+
+```js
+## var  ourName;
+```
+
+
+
+ourName nomli o‘zgaruvchini yaratadi. JavaScript-da biz bayonotlarni nuqta-vergul bilan tugatamiz. O'zgaruvchilar nomlari raqamlar, harflar va $ yoki _ dan iborat bo'lishi mumkin, lekin bo'sh joy yoki raqam bilan boshlanmasligi mumkin.
+
+`MyName` deb nomlangan oʻzgaruvchi yaratish uchun “var” kalit soʻzidan foydalaning.
+
+## Maslahat
+Agar tiqilib qolsangiz, yuqoridagi “Name” misoliga qarang.
