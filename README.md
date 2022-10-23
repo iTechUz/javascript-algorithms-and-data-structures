@@ -22,24 +22,32 @@ Try creating one of each type of comment.
 
 
 
+
+
+
+
 ## Tarjima
 
-**JavaScript Algorithms and Data Structures**
-## Comment Your JavaScript Code
+**JavaScript  algaritmda malumotlar tuzilishi**
+## sizning  JavaScript codengizni comentga olish 
 
 Sharhlar - bu JavaScript ataylab e'tiborsiz qoldiradigan kod qatorlari.Sharhlar o'zingizga va keyinchalik bu kod nima qilishini tushunishi kerak bo'lgan boshqa odamlarga eslatma qoldirishning ajoyib usuli hisoblanadi.
 
 **JavaScript-da sharh yozishning ikki yo'li mavjud:**
 
 
-`//` dan foydalanish JavaScript-ga joriy satrdagi matnning qolgan qismini e'tiborsiz qoldirishni aytadi. Bu in-line izoh:
+`//` dan foydalanish JavaScript-ga joriy satrdagi matnning qolgan qismini e'tiborsiz qoldirishni aytadi. Bu qatordagi  comment:
 
 
 ```js
-// Bu qatordagi izoh.
+// Bu bir qatordagi comment qilish belgisi //.
 ```
+ siz yozgan ko'p qatorlik code comment qilishni  shu bilan boshlaysiz  `/*` va shu bilan tugatasiz `*/`. bu kop qatorlik coment qilish usuli:
 
+```js
+/* bu ko'p qatorli textni  comment  qilish belgisi*/
+```
 
 **DIQQAT:** Kod yozayotganingizda, kodingiz qismlari funksiyasini aniqlashtirish uchun muntazam ravishda sharhlar qo'shishingiz kerak. Yaxshi sharhlash sizning kodingiz maqsadini boshqalarga ham, kelajakdagi shaxsingizga ham etkazishga yordam beradi.
 
-Har bir izoh truridan birini yaratishga harakat qil
+Har bir comment truridan  yaratishga harakat qiling
